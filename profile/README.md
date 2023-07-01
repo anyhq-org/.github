@@ -1,4 +1,4 @@
-![](banner.png)
+![](/profile/banner.png)
 
 [![Twitter: AnyAppHq](https://img.shields.io/twitter/follow/AnyAppHq?style=social)](https://twitter.com/anyapphq)
 [![Linkedin: AnyAppHq](https://img.shields.io/badge/-AnyApp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/anyapphq/)](https://www.linkedin.com/company/anyapphq/)
